@@ -1,3 +1,10 @@
+//team : 6
+//  Diego Enrique Vargas Ramirez A01635782
+// Adair Virgilio Figueroa Medina A00572826
+// Ernesto Puga Araujo A00572845
+// Iñaki González Morales A01612126
+// Luis Fernando Cuevas Arroyo A01637254
+
 #include <string>
 #include <iostream>
 #include <stdexcept>
